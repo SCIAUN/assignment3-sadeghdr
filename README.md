@@ -6,8 +6,9 @@
 
 # write a code that can read the following host name from file mix those host names with following ports and then grab the banner of their service and then print the result to the console.
 
+# before anything you should create a "host_names" file in your own repository and put host names in that one line for each host name. 
 
-# you should create a assignment3.py in your own created repository and then commit your codes in that file. from now you have 2 week to solve this assginment.(your owm created repository mean: github.com/sciaun/assignment3-your_user_name)
+# from now you have 2 week to solve this assginment.(your owm created repository mean: github.com/sciaun/assignment3-your_user_name)
 
 # host names:
 
