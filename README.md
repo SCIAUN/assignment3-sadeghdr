@@ -4,11 +4,11 @@
 
 # https://github.com/SCIAUN/lecture3
 
-# before anything you should create a "host_names" file in your own repository and put host names in that one line for each host name. 
+# before anything you should create a "host_names" file in your own repository and put host names in that. one line for each host name.(your own repository mean: github.com/sciaun/assignment3-your_user_name)
 
 write a code that can read the following host name from file mix those host names with following ports and then grab the banner of their service and then print the result to the console.
 
-from now you have 2 week to solve this assginment.(your own repository mean: github.com/sciaun/assignment3-your_user_name)
+from now you have 2 week to solve this assginment.
 
 host names:
 
