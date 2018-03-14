@@ -5,7 +5,7 @@
 
 # https://github.com/SCIAUN/lecture3
 
-# write a code that can read the following host name from file mix those host names with following ports and then grab the banner of their service and then print the output to the console:
+# write a code that can read the following host name from file mix those host names with following ports and then grab the banner of their service and then print the result to the console:
 
 # host names:
 
