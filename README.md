@@ -8,7 +8,7 @@
 
 # before anything you should create a "host_names" file in your own repository and put host names in that one line for each host name. 
 
-# from now you have 2 week to solve this assginment.(your owm created repository mean: github.com/sciaun/assignment3-your_user_name)
+# from now you have 2 week to solve this assginment.(your own repository mean: github.com/sciaun/assignment3-your_user_name)
 
 # host names:
 
